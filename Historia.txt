@@ -1,9 +1,5 @@
 Esta es la historia de Joel Jimenez
 
-Joel Jimenez tiene 25 años, nacio en Perú y vive en lima.
+Joel Jimenez tiene 24 años y nacio en Peru.
 
-Hoy hablaremos de su vida y su familia.
-
-Tiene 2 Hermanas flor y estefany.
-
-Hoy es 16/02/22
+Mañana seguira estudiando git
