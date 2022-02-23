@@ -16,6 +16,12 @@ body{
 
 }
 
+#Logo
+{
+    border-radius: 8px;
+    
+
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
