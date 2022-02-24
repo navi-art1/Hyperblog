@@ -37,3 +37,9 @@ body{
 {
     font-size: 20px;
 }
+
+#footer{
+    background-color: aqua;
+    text-align: center;
+    padding: 5px;
+}
