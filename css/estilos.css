@@ -37,7 +37,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(182, 175, 175);
     margin: 0 auto;
 }
 
@@ -48,7 +48,7 @@ body
 }
 #post
 {
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 1em;
 }
 
